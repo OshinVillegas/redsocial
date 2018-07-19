@@ -1,0 +1,56 @@
+html,body,h1,h2,h3,h4,h5 {font-family: "Open Sans", sans-serif}
+#data{
+    display: none;
+}
+
+.imgLog{
+    height: 20px;
+    width: 35px; 
+}
+.social{
+    background: #4A6EA8;
+    border: radius 20px; 
+    width: 30%;
+   border-radius: 15px;
+   font-size: 12px;
+   
+  }
+  
+  .social1{
+    background: #DF4B38; 
+    border: radius 20px; 
+    width: 30%;
+   border-radius: 15px;
+   font-size: 12px;
+  }
+  #h{
+    background: hsl(147, 79%, 59%);
+    height: 100px;   
+}
+
+.img{
+    width:400px; 
+    height:400px;
+    margin: 40px 30px;
+    float: left;
+    }
+
+    #container1{
+        float: left;
+        margin: 60px 20px;
+        background: rgba(0,0,0,0.5);
+        opacity:0.5; /* Opacidad 60% */
+        width:30%;
+        height:15%;
+        border-radius: 10px;
+    }    
+    #text{
+        font-family: 'sans-serif' cursive;
+        font-size: 25px;
+        float: left;
+        color: #000000;
+        width: 80%;
+        margin: 80px 40px;
+        
+    
+    }
